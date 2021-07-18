@@ -1,5 +1,5 @@
 # eye-led-robot
-![Copy of Funky Bruticus](https://user-images.githubusercontent.com/86836634/126029773-7d8de333-0a5e-4663-83d8-ad80b97325a2.png)
+
 An arduino-circuit to control the robot eyes. It uses PWM to reduce the energy losses
 in the LEDs.
 We connected the LEDs in parallel so if one got open, the other eye is not affected.
